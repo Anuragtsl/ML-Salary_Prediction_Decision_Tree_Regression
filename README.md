@@ -2,11 +2,11 @@
 
 I have created Machine Learning Model With Decison Tree Regressor for Salary Predictions.
 
-In this I've used Python’s Famous libraries like [Numpy](), [Pandas](), [Matplotlib](), and [Sklearn]() for Vizualization and  Model Development.
+In this I've used Python’s Famous libraries like [Numpy](https://numpy.org/), [Pandas](https://pandas.pydata.org/), [Matplotlib](https://matplotlib.org/), and [Sklearn](https://scikit-learn.org/) for Vizualization and  Model Development.
 
-I've used [Jupyter Notebook]() for coding!
+I've used [Jupyter Notebook](https://jupyter.org/) for coding!
 
-Download the dataset from [here]()!
+Download the dataset from [here](https://github.com/Anuragtsl/ML-Salary_Prediction_Decision_Tree_Regression/blob/main/Position_Salaries.csv)!
 
 # Project Objective
 
@@ -21,6 +21,7 @@ Download the dataset from [here]()!
 # Preview
 
 ![Image2]()
+
 ![Image3]()
 
 
